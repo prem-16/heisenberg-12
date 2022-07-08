@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @heisenberg-12
-- 👀 I’m interested in Machine learning and mobile robotics
+- 👀 I’m interested in Artificial Intelligence and mobile robotics
 - 🌱 I’m currently learning Embedded Systems Engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
