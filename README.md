@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @heisenberg-12
 - 👀 I’m interested in Artificial Intelligence and mobile robotics
 - 🌱 I’m currently learning Embedded Systems Engineering
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on ROS projects
+- 📫 How to reach me sriprem1130@gmail.com
 
 <!---
 heisenberg-12/heisenberg-12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
